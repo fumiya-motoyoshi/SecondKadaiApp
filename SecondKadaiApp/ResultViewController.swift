@@ -14,6 +14,7 @@ class ResultViewController: UIViewController {
     
     var x:String = "名前"
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
